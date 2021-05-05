@@ -23,7 +23,7 @@ There are 10 categories defined :
 *  Simpletons
 
 
-##Example:
+## Example:
 '''
 http://localhost:8082/mapping?val=12&val=2&category=Furniture
 '''
